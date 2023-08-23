@@ -30,7 +30,7 @@ Follow the code and explanations in the notebook to understand each step of the 
 
 ## Dataset
 
-For this demonstration, a sample dataset is provided (language_dataset.csv). The dataset contains text samples from various languages. You can use this dataset to follow along with the notebook and practice language detection.
+For this demonstration, a sample dataset is provided (Language Detection.xls). The dataset contains text samples from various languages. You can use this dataset to follow along with the notebook and practice language detection.
 
 
 
